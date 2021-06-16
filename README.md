@@ -19,9 +19,9 @@
 
 #### Repository Navigation-
 
-1. [ECoG Papers](../ECoG papers)
-2. [EEG Papers](../EEG papers)
-3. [Other PDFs](../Others)
+1. [ECoG Papers](./ECoG papers)
+2. [EEG Papers](./EEG papers)
+3. [Other PDFs](./Others)
 
 #### Important Notes-
 
