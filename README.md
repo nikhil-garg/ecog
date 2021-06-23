@@ -27,3 +27,10 @@
 
 - Please use Mendeley for renaming the papers in the format we have in the repository before adding any papers (with hyphen, year-name-author)
 - Please upload code in a directory or a folder with your name.
+
+#### Reservoir computing resources
+- https://github.com/siloekse/PythonESN
+- https://younesse.net/Neuromodeling/Project_Chaotic_Neural_Networks/
+- https://www.mathworks.com/matlabcentral/fileexchange/69402-deepesn?s_tid=prof_contriblnk
+- https://github.com/nschaetti/EchoTorch
+- https://github.com/FilippoMB/Time-series-classification-and-clustering-with-Reservoir-Computing
