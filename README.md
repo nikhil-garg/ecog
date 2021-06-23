@@ -38,3 +38,4 @@
 - https://www.mathworks.com/matlabcentral/fileexchange/69402-deepesn?s_tid=prof_contriblnk
 - https://github.com/nschaetti/EchoTorch
 - https://github.com/FilippoMB/Time-series-classification-and-clustering-with-Reservoir-Computing
+- https://github.com/gallicch/DeepRC-TF
