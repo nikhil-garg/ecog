@@ -1,5 +1,9 @@
 ## ECoG Project
 
+#### Tutorials
+- https://sites.google.com/site/cgallicch/resources/tutorial_DRNN?authuser=0
+
+
 #### Important Links-
 
 1. [Slides](https://docs.google.com/presentation/d/1ViMhu4LkrE-DLw00OM5X4YvIing8E4Vnn2hA4f8yyOo/edit?usp=sharing)
