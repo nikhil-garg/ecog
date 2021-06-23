@@ -15,6 +15,8 @@
 11. [MNEFlow - provides a convenient way to apply neural networks implemmented in Tensorflow to EEG/MEG data](https://mneflow.readthedocs.io/en/latest/intro.html)
 12. [Army Research Laboratory (ARL) EEGModels project - CNN Models, Great Feature Explainability](https://github.com/vlawhern/arl-eegmodels)
 13. [Journal of Open Research Software (JORS) -Twitter](https://twitter.com/up_jors)
+14. [HTNet Generalized Decoding](https://github.com/BruntonUWBio/HTNet_generalized_decoding)
+15. [DeepExplain: attribution methods for Deep Learning](https://github.com/marcoancona/DeepExplain)
 
 
 #### Repository Navigation-
