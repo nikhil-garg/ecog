@@ -6,7 +6,9 @@
 
 #### Important Links-
 - [Slides](https://docs.google.com/presentation/d/1ViMhu4LkrE-DLw00OM5X4YvIing8E4Vnn2hA4f8yyOo/edit?usp=sharing)
+- [Slides New](https://docs.google.com/presentation/d/1cCl4aZx0jRFVogIBTeCwJ8SlWeYJ6wWdINML6JpcQZc/edit?usp=sharing)
 - [Project Log](https://docs.google.com/document/d/19iwc9iRM5c6j3IXqiA_AvbKFJHVEj_C43W96V5MLQIM/edit)
+- [Literature Review sheet](https://docs.google.com/spreadsheets/d/1oXnd6obPdMZUcebqTOXmQGJ0FD_sMl_bwjS8uoWINUI/edit#gid=0)
 - [Stanford Libraries Datasets and Toolbox - Kai J Miller](https://searchworks.stanford.edu/view/zk881ps0522)
 - [ecogVIS repo fork - Timeseries visualizer and processing tools for ECoG Signals](https://github.com/nikhil-garg/ecogVIS)
 - [Image pre-processing pipeline for ECoG fork](https://github.com/nikhil-garg/img_pipe)
