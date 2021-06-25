@@ -33,8 +33,8 @@
 - [MNEFlow - provides a convenient way to apply neural networks implemmented in Tensorflow to EEG/MEG data](https://mneflow.readthedocs.io/en/latest/intro.html)
 https://github.com/vlawhern/arl-eegmodels
 - [Practical Guide for Visualizing CNNs Using Saliency Maps - Article](https://towardsdatascience.com/practical-guide-for-visualizing-cnns-using-saliency-maps-4d1c2e13aeca)
-- https://github.com/marcoancona/DeepExplain
-- BruntonUWBio/mining2021: Code to accompany: https://arxiv.org/abs/2001.08349
+- [Deep Explain :attribution methods for Deep Learning](https://github.com/marcoancona/DeepExplain)
+- [Code to accompany: Investigating naturalistic hand movements by behavior mining](https://github.com/BruntonUWBio/mining2021)
 - [Keras Timeseries classification basic tutorial](https://github.com/keras-team/keras-io/blob/master/examples/timeseries/timeseries_classification_from_scratch.py)
 - [Army Research Laboratory (ARL) EEGModels project - CNN Models, Great Feature Explainability](https://github.com/vlawhern/arl-eegmodels)
 - [HTNet Generalized Decoding](https://github.com/BruntonUWBio/HTNet_generalized_decoding)
