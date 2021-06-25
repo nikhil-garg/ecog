@@ -23,6 +23,12 @@
 - https://github.com/FilippoMB/Time-series-classification-and-clustering-with-Reservoir-Computing
 - https://github.com/gallicch/DeepRC-TF
 
+#### CNN for audio (EEG) and video (Spectrogram)
+- https://github.com/mathilde173/MAFnet
+- https://github.com/liuzhuang13/DenseNet
+- https://arxiv.org/pdf/1609.09430.pdf
+- https://research.google/pubs/pub45611/
+
 #### Deep learning and model explainability
 - [MNEFlow - provides a convenient way to apply neural networks implemmented in Tensorflow to EEG/MEG data](https://mneflow.readthedocs.io/en/latest/intro.html)
 https://github.com/vlawhern/arl-eegmodels
