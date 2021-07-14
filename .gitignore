@@ -6,10 +6,10 @@ build/
 *.spec
 .ipynb_checkpoints/
 notebooks/.ipynb_checkpoints/
+Others/
 ECoG-papers/
 EEG-papers/
-Others/
 data/bci3_npz/
 data/motor_basic_npz/
 data/ecog-library/motor_basic/
-data/bci3-dataset1
+data/bci3-dataset1/
