@@ -11,6 +11,9 @@ ECoG-papers/
 EEG-papers/
 data/bci3_npz/
 data/motor_basic_npz/
+data/imagery_basic_npz/
+data/ecog-library/
 data/ecog-library/motor_basic/
+data/ecog-library/imagery_basic/
 data/bci3-dataset1/
 *.npz
