@@ -9,13 +9,10 @@ notebooks/.ipynb_checkpoints/
 Others/
 ECoG-papers/
 EEG-papers/
-data/bci3_npz/
-data/motor_basic_npz/
-data/imagery_basic_npz/
-data/ecog-library/
-data/bci3-dataset1/
-data/als_dataset
-data/one_dim_bci dataset
-data/cognitive_control_dataset
+data/bci3_npz_raw/
+data/motor_basic_npz_raw/
+data/imagery_basic_npz_raw/
+data/src/
+data/epoched_data
 *.npz
 *.mat
