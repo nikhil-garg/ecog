@@ -14,5 +14,6 @@ data/motor_basic_npz_raw/
 data/imagery_basic_npz_raw/
 data/src/
 data/epoched_data
+data/test/images_expt
 *.npz
 *.mat
